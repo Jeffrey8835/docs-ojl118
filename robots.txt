@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-arjrlg.pusat4dafn.cfd/sitemap.xml
